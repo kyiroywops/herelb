@@ -92,7 +92,7 @@ const Layout = ({ children, pageContext }) => {
     return (
       <>
         <Helmet>
-          <title>Finity</title>
+          <title>HereLabs</title>
           <link rel="icon" type="image/png" href={imgFavicon} />
           <body data-theme={gContext.theme.bodyDark ? "dark" : "light"} />
         </Helmet>
@@ -111,7 +111,7 @@ const Layout = ({ children, pageContext }) => {
     return (
       <>
         <Helmet>
-          <title>Finity</title>
+          <title>HereLabs</title>
           <link rel="icon" type="image/png" href={imgFavicon} />
           <body data-theme={gContext.theme.bodyDark ? "dark" : "light"} />
         </Helmet>
@@ -131,7 +131,7 @@ const Layout = ({ children, pageContext }) => {
     <>
       <>
         <Helmet>
-          <title>Finity</title>
+          <title>HereLabs</title>
           <link rel="icon" type="image/png" href={imgFavicon} />
           <body data-theme={gContext.theme.bodyDark ? "dark" : "light"} />
         </Helmet>

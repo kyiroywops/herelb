@@ -43,11 +43,11 @@ const Footer = ({ className, ...rest }) => {
                             id="mail"
                             type="email"
                             className="form-control"
-                            placeholder="Place your email"
+                            placeholder="Ingresa tu correo"
                           />
                         </div>
                         <button className="btn btn-dodger-blue-2 rounded-5">
-                          Submit
+                          Enviar
                         </button>
                       </div>
                     </form>
@@ -65,7 +65,7 @@ const Footer = ({ className, ...rest }) => {
                     to="/#"
                     className="pr-5 text-white gr-hover-text-dodger-blue-1 font-size-5 pr-12"
                   >
-                    Demos
+                    Contacto@herelabs.dev
                   </Link>
                 </li>
                 <li>
@@ -73,29 +73,15 @@ const Footer = ({ className, ...rest }) => {
                     to="/#"
                     className="pr-5 text-white gr-hover-text-dodger-blue-1 font-size-5 pr-12"
                   >
-                    Pages
+                    Chile
                   </Link>
                 </li>
-                <li>
-                  <Link
-                    to="/#"
-                    className="pr-5 text-white gr-hover-text-dodger-blue-1 font-size-5 pr-12"
-                  >
-                    Support
-                  </Link>
-                </li>
+               
               </ul>
             </div>
             <div>
               <ul className="d-flex align-items-center list-unstyled mb-0">
-                <li>
-                  <Link
-                    to="/#"
-                    className="pl-5 text-white gr-hover-text-dodger-blue-1 font-size-5 pr-6"
-                  >
-                    <i className="fab fa-twitter" />
-                  </Link>
-                </li>
+               
                 <li>
                   <Link
                     to="/#"
@@ -104,14 +90,7 @@ const Footer = ({ className, ...rest }) => {
                     <i className="fab fa-google" />
                   </Link>
                 </li>
-                <li>
-                  <Link
-                    to="/#"
-                    className="pl-5 text-white gr-hover-text-dodger-blue-1 font-size-5 pr-6"
-                  >
-                    <i className="fab fa-linkedin" />
-                  </Link>
-                </li>
+               
               </ul>
             </div>
           </div>

@@ -14,7 +14,7 @@ const ContentOne = ({ className, ...rest }) => {
             data-aos-once="true"
           >
             <h3 className="font-size-10 mb-0 letter-spacing-n83">
-              Save time managing social media for your business
+              Desarrollo de aplicaciones web y móviles.
             </h3>
           </div>
           <div
@@ -24,8 +24,9 @@ const ContentOne = ({ className, ...rest }) => {
             data-aos-once="true"
           >
             <p className="font-size-7 mb-0 pr-xl-2 pr-lg-5 pr-md-10 pr-sm-20 mt-7 mt-lg-0">
-              Minimize time consuming distractions, level up your team’s
-              productivity by letting finity handle your comm.
+            Minimice las distracciones que consumen mucho tiempo, 
+            aumenta la productividad de su equipo dejando que HereLabs se encargue de sus comunicaciones.
+
             </p>
           </div>
         </div>

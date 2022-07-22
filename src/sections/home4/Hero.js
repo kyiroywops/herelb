@@ -42,16 +42,15 @@ const Hero = ({className,...rest}) => {
                 data-aos-once="true"
               >
                 <h1 className="font-size-13 mb-9 line-height-84 pr-xs-15 pr-lg-0">
-                  Bring more sales on your page.
+                  El desarrollo de la programación.
                 </h1>
                 <p className="font-size-8 mb-0 pr-md-10 pr-xl-18">
-                  Typewolf is an independent typography resource created by
-                  Jeremiah Shoaf. The site gets over 350,000 unique visitors a
-                  month.
+                  En nuestro equipo nos especializamos en el desarrollo de software. 
+                  Nuestros servicios incluyen desarrollo de aplicaciones web y móviles.
                 </p>
                 <div className="btn-group pt-10 pt-lg-12">
                   <Link className="btn btn-white btn-3 h-60 rounded-5" to={"#"}>
-                    Start 14 Days trial
+                      Más Información
                   </Link>
                 </div>
               </div>
