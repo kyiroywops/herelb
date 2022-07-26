@@ -12,13 +12,6 @@ const Home3 = () => {
       <PageWrapper
         themeConfig={{
           headerClassName: "site-header--menu-right dark-mode-texts dropdown-left",
-          headerButton: (
-            <>
-              <button className="btn btn btn-white btn-medium rounded-5 font-size-3">
-                Pincha aca
-              </button>
-            </>
-          ),
           footerStyle: "style4",
         }}
       >

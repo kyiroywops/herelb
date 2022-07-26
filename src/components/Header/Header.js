@@ -55,11 +55,7 @@ const Header = () => {
               </div>
             </div>
 
-            {gContext.theme.headerButton && (
-              <div className="header-btn ml-auto ml-lg-0 d-none d-xs-block">
-                {gContext.theme.headerButton}
-              </div>
-            )}
+          
 
             <ToggleButton
               className={`navbar-toggler btn-close-off-canvas ml-3 ${

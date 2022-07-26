@@ -58,7 +58,7 @@ const ContentOne = ({ className, ...rest }) => {
               data-aos-delay={500}
               data-aos-once="true"
             >
-              <div className="square-60 bg-blue-3 shadow-dodger-blue-3 rounded-10 text-white font-size-7">
+              <div className="square-60 bg-dodger-blue-1 shadow-dodger-blue-3 rounded-10 text-white font-size-7">
                 <i className="fa fa-link" />
               </div>
               <div className="mt-9">
@@ -78,7 +78,7 @@ const ContentOne = ({ className, ...rest }) => {
               data-aos-delay={700}
               data-aos-once="true"
             >
-              <div className="square-60 bg-sunset shadow-sunset rounded-10 text-white font-size-7">
+              <div className="square-60 bg-dodger-blue-1 shadow-sunset rounded-10 text-white font-size-7">
                 <i className="fa fa-level-up-alt" />
               </div>
               <div className="mt-9">
