@@ -1,7 +1,7 @@
 export const menuItems = [
          {
-           name: "https://uxtheme.net/product-support/",
-           label: "Soporte",
+           name: "https://www.youtube.com/watch?v=SigIbCVMTzU",
+           label: "Chillout",
            isExternal: true,
          },
        ];
