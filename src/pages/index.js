@@ -15,7 +15,7 @@ const Home3 = () => {
           footerStyle: "style4",
         }}
       >
-        <Hero className="bg-blue-1 position-relative pt-20 pt-sm-24 pt-lg-34 pb-9 pb-lg-32" />
+        <Hero className="bg-purple-heart position-relative pt-20 pt-sm-24 pt-lg-34 pb-9 pb-lg-32" />
         <ContentOne className="pt-13 pt-lg-28 pb-13 pb-lg-26" />
         <ContentThree className="bg-dark-cloud pt-30 pt-lg-28 pb-15 pb-lg-30" />
 

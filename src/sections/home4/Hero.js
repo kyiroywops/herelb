@@ -48,11 +48,7 @@ const Hero = ({className,...rest}) => {
                   En nuestro equipo nos especializamos en el desarrollo de software. 
                   Nuestros servicios incluyen desarrollo de aplicaciones web y móviles.
                 </p>
-                <div className="btn-group pt-10 pt-lg-12">
-                  <Link className="btn btn-white btn-3 h-60 rounded-5" to={"#"}>
-                      Más Información
-                  </Link>
-                </div>
+               
               </div>
             </div>
           </div>
