@@ -82,12 +82,12 @@ const Footer = ({ className, ...rest }) => {
             <div>
               <ul className="d-flex align-items-center list-unstyled mb-0">
                
-                <li>
+              <li>
                   <Link
                     to="/#"
-                    className="pl-5 text-white gr-hover-text-dodger-blue-1 font-size-5 pr-6"
+                    className="pr-5 text-white gr-hover-text-dodger-blue-1 font-size-5 pr-12"
                   >
-                    <i className="fab fa-google" />
+                    © 2022 Here Labs
                   </Link>
                 </li>
                

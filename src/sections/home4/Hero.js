@@ -42,7 +42,7 @@ const Hero = ({className,...rest}) => {
                 data-aos-once="true"
               >
                 <h1 className="font-size-13 mb-9 line-height-84 pr-xs-15 pr-lg-0">
-                  El desarrollo de la programación.
+                  Te damos la bienvenida en herelabs.
                 </h1>
                 <p className="font-size-8 mb-0 pr-md-10 pr-xl-18">
                   En nuestro equipo nos especializamos en el desarrollo de software. 

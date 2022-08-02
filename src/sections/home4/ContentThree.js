@@ -58,24 +58,16 @@ const ContentTwo = ({ className, ...rest }) => {
               data-aos-once="true"
             >
               <h6 className="font-size-3 text-dodger-blue-1 text-uppercase mb-9 letter-spacing-normal">
-                New feature
+                Nueva característica
               </h6>
               <h2 className="font-size-10 mb-8 letter-spacing-n83 pr-xs-22 pr-sm-18 pr-md-0">
-                The best experience offered by Finity
+                La mejor experiencia que te ofrece herelabs
               </h2>
               <p className="font-size-7 mb-0">
-                Minimize time consuming distractions, level up your team’s
-                productivity by letting finity handle your comm. Our focus is
-                always on finding the best people to work with.
+                Minimice el tiempo de desarrollo y el costo de desarrollo de su aplicación. Nuestro enfoque es
+                siempre en encontrar a las mejores personas para trabajar. Nuestra plataforma de trabajo es una herramienta de comunicación entre los desarrolladores y los clientes.
               </p>
-              <div className="mt-12">
-                <Link
-                  className="btn btn-sunset btn-xl h-55 rounded-5 font-weight-normal"
-                  to={"#"}
-                >
-                  Start 14 Days trial
-                </Link>
-              </div>
+             
             </div>
           </div>
         </div>

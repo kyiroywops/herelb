@@ -15,21 +15,15 @@ const ContentTwo = ({ className, ...rest }) => {
               data-aos-once="true"
             >
               <h6 className="font-size-3 text-dodger-blue-1 text-uppercase mb-9 letter-spacing-normal">
-                Product of the day
+                Servicios
               </h6>
               <h2 className="font-size-10 mb-8 letter-spacing-n83">
-                The best experience offered by Finity Social
+                Desarrolla tu proyecto de forma efectiva y eficaz con nuestros servicios.
               </h2>
               <p className="font-size-7 mb-0">
-                Minimize time consuming distractions, level up your team’s
-                productivity by using finity social. Our focus is always on
-                finding the best people to work with.
+                Nuestro equipo de trabajo desarrolla soluciones que se ajustan a las necesidades de cada cliente. Por eso, nos esforzamos en ofrecer soluciones que se ajusten a sus necesidades. 
               </p>
-              <div className="mt-12">
-                <Link className="btn btn-sunset btn-xl h-55 rounded-5" to={"/#"}>
-                  Start 14 Days trial
-                </Link>
-              </div>
+            
             </div>
           </div>
           {/* Right Image */}
@@ -52,10 +46,10 @@ const ContentTwo = ({ className, ...rest }) => {
                 </div>
                 <div className="text-left">
                   <h4 className="font-size-6 text-dark-cloud mb-0 line-height-26">
-                    New Feature
+                    Envianos un correo
                   </h4>
                   <p className="font-size-5 text-stone mb-0">
-                    You’ve received a new notification
+                    Lo revisaremos y te responderemos a la brevedad.
                   </p>
                 </div>
               </div>

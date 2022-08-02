@@ -62,11 +62,9 @@ const ContentOne = ({ className, ...rest }) => {
                 <i className="fa fa-link" />
               </div>
               <div className="mt-9">
-                <h4 className="font-size-7 mb-5">Engage Teammates</h4>
+                <h4 className="font-size-7 mb-5">Factibilidad</h4>
                 <p className="font-size-5 mb-0">
-                  Typewolf is an independent typography resource created by
-                  Jeremiah Shoaf. The site gets over 350,000 unique visitors a
-                  month.
+                  Podemos trabajar en equipo para que el proyecto se haga más sencillo. Los proyectos que realizamos son muy importantes para nosotros, por eso nos encargamos de que el proyecto se haga más fácil.
                 </p>
               </div>
             </div>
@@ -82,11 +80,9 @@ const ContentOne = ({ className, ...rest }) => {
                 <i className="fa fa-level-up-alt" />
               </div>
               <div className="mt-9">
-                <h4 className="font-size-7 mb-5">Level Up Productivity</h4>
+                <h4 className="font-size-7 mb-5">Tecnologías</h4>
                 <p className="font-size-5 mb-0">
-                  Typewolf is an independent typography resource created by
-                  Jeremiah Shoaf. The site gets over 350,000 unique visitors a
-                  month.
+                  Trabajamos con las mejores tecnologías para desarrollar la aplicación más rápida y eficaz. Crearemos una aplicación que se adapte a las nevas tecnologías de la web y móviles que se estén utilizando.
                 </p>
               </div>
             </div>
@@ -102,11 +98,9 @@ const ContentOne = ({ className, ...rest }) => {
                 <i className="fa fa-hourglass-half" />
               </div>
               <div className="mt-9">
-                <h4 className="font-size-7 mb-5">Optimize Time</h4>
+                <h4 className="font-size-7 mb-5">Optimiza tiempo</h4>
                 <p className="font-size-5 mb-0">
-                  Typewolf is an independent typography resource created by
-                  Jeremiah Shoaf. The site gets over 350,000 unique visitors a
-                  month.
+                  El tiempo de desarrollo es una de las cosas más importantes para el éxito de una aplicación. Herelabs agiliza el proceso de desarrollo de su aplicación para que el tiempo de desarrollo sea más eficiente.
                 </p>
               </div>
             </div>
