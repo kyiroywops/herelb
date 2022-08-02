@@ -7,7 +7,7 @@ import imgLW from "../../assets/image/logo-main-white.png";
 const Footer = ({ className, ...rest }) => {
   return (
     <>
-      <div className={`bg-charade pt-12 pb-10 ${className}`} {...rest}>
+      <div className={`bg-dark-cloud pt-12 pb-10 ${className}`} {...rest}>
         <div className="container">
           <div className="pb-13">
             <div className="row align-items-center justify-content-lg-between">
