@@ -82,7 +82,7 @@ const ContentOne = ({ className, ...rest }) => {
               <div className="mt-9">
                 <h4 className="font-size-7 mb-5">Tecnologías</h4>
                 <p className="font-size-5 mb-0">
-                  Trabajamos con las mejores tecnologías para desarrollar la aplicación más rápida y eficaz. Crearemos una aplicación que se adapte a las nevas tecnologías de la web y móviles que se estén utilizando.
+                  Trabajamos con las mejores tecnologías para desarrollar la aplicación más rápida y eficaz. Crearemos una aplicación que se adapte a las nuevas tecnologías de la web y móviles que se estén utilizando.
                 </p>
               </div>
             </div>
